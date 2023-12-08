@@ -1,0 +1,11 @@
+C:\Users\MUSTAFA\Desktop\ödev\Muhammed Taha Altunç\Muhammed Taha Altunç\Muhammed Taha Altunç\bin\Debug\Muhammed Taha Altunç.exe.config
+C:\Users\MUSTAFA\Desktop\ödev\Muhammed Taha Altunç\Muhammed Taha Altunç\Muhammed Taha Altunç\bin\Debug\Muhammed Taha Altunç.exe
+C:\Users\MUSTAFA\Desktop\ödev\Muhammed Taha Altunç\Muhammed Taha Altunç\Muhammed Taha Altunç\bin\Debug\Muhammed Taha Altunç.pdb
+C:\Users\MUSTAFA\Desktop\ödev\Muhammed Taha Altunç\Muhammed Taha Altunç\Muhammed Taha Altunç\obj\Debug\Muhammed Taha Altunç.csproj.AssemblyReference.cache
+C:\Users\MUSTAFA\Desktop\ödev\Muhammed Taha Altunç\Muhammed Taha Altunç\Muhammed Taha Altunç\obj\Debug\Muhammed_Taha_Altunç.Form1.resources
+C:\Users\MUSTAFA\Desktop\ödev\Muhammed Taha Altunç\Muhammed Taha Altunç\Muhammed Taha Altunç\obj\Debug\Muhammed_Taha_Altunç.Properties.Resources.resources
+C:\Users\MUSTAFA\Desktop\ödev\Muhammed Taha Altunç\Muhammed Taha Altunç\Muhammed Taha Altunç\obj\Debug\Muhammed Taha Altunç.csproj.GenerateResource.cache
+C:\Users\MUSTAFA\Desktop\ödev\Muhammed Taha Altunç\Muhammed Taha Altunç\Muhammed Taha Altunç\obj\Debug\Muhammed Taha Altunç.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFA\Desktop\ödev\Muhammed Taha Altunç\Muhammed Taha Altunç\Muhammed Taha Altunç\obj\Debug\Muhammed Taha Altunç.exe
+C:\Users\MUSTAFA\Desktop\ödev\Muhammed Taha Altunç\Muhammed Taha Altunç\Muhammed Taha Altunç\obj\Debug\Muhammed Taha Altunç.pdb
+C:\Users\MUSTAFA\Desktop\ödev\Muhammed Taha Altunç\Muhammed Taha Altunç\Muhammed Taha Altunç\obj\Debug\Muhammed_Taha_Altunç.Form2.resources
